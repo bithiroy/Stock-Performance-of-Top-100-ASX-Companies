@@ -4,5 +4,5 @@
 Data Source:
 Yahoo Finance
 
-More detail of this project is available via the following link:
+More detail of this project is available via the link:
 https://public.tableau.com/profile/bithi.roy#!/vizhome/StockPerformanceofTop100ASXCompanies/Stockperformancedashboard
